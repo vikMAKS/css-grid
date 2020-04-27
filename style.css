@@ -116,17 +116,14 @@ img {
 span {
     color: rgb(0, 0, 0);
 }
-@media only screen and (max-width: 12cm) {
+@media only screen and (max-width: 768px) {
     .texts {
         grid-template-columns: auto auto;
     }
     .bgpic {
         width: 100%;
     }
-    .bgpic li p {
-        display: none;
-    }
     .item {
-        width: 45%;
+        width: 41%;
     }
 }
