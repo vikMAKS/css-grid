@@ -116,7 +116,7 @@ img {
 span {
     color: rgb(0, 0, 0);
 }
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 640px) {
     .texts {
         grid-template-columns: auto auto;
     }
