@@ -123,6 +123,9 @@ span {
     .bgpic {
         width: 100%;
     }
+   .bgpic li p {
+       display: none;
+   } 
     .item {
         width: 41%;
     }
